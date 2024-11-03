@@ -232,3 +232,8 @@ Every team member should add a section to the README.md file that describes the 
 
 ### Homepage
 Do not forget to update the index.html file to include links to all rooms and or update it to your specific needs.
+
+## CHALLENGE 5: Deploy
+Before we used to deploy our projects using Combell and FileZilla. But now we will use GitHub Pages. This is a free service that turns your GitHub repository into a website.
+
+Follow [this tutorial](https://docs.github.com/en/pages/quickstart).  Of course you don't have to do the first step, because you already have a repository. You can start from step 6.
