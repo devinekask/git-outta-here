@@ -230,6 +230,8 @@ Update the README.md file in the main branch so that it includes the following i
 
 Every team member should add a section to the README.md file that describes the room they created.
 
+[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
 ### Homepage
 Do not forget to update the index.html file to include links to all rooms and or update it to your specific needs.
 
@@ -245,3 +247,6 @@ If the index.html is not in the root folder of your repository, you will have to
 For example:
 - [https://devinekask.github.io/git-outta-here/](https://devinekask.github.io/git-outta-here/) serves the README.md file in the root folder of the repository.
 - [https://devinekask.github.io/git-outta-here/template](https://devinekask.github.io/git-outta-here/template) serves the index.html file in the template folder of the repository.
+
+## Award Ceremony
+Info will follow.
