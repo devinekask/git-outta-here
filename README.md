@@ -10,10 +10,10 @@ Today's challenge is to create an interactive digital escape room. As digital de
 [Let's git ready to rumble!](https://www.youtube.com/watch?v=nendMLrpI-s)
 
 
-## Challenge 0: Team Up!
+## CHALLENGE 0: Team Up!
 Divide yourselves into teams of **three**. 
 
-## Challenge 1: Set Up Repository (1 per team)
+## CHALLENGE 1: Set Up Repository (1 per team)
 One team member should complete the following steps:
 ### 1. Create a Repository 
 Create a new repository named after your project or team.
@@ -187,3 +187,48 @@ Push the commit to GitHub.
 
 Make sure that everyone in your team has access to the repository and pulls the latest changes.
 
+## CHALLENGE 3: Rooms
+
+Now it's time to create the rooms. Each room should have a unique challenge that reveals one of the numbers of the final combination.
+
+Every team member should work on at least one room.
+
+### Requirements:
+- Each room should have a separate HTML  and CSS file.
+- Each room should have a separate git branch.
+- You can use a shared CSS file for all rooms. For example for:
+  - fonts
+  - colors
+  - spacers
+  - visually hidden
+  - border box
+  - ...
+
+### Hiding numbers
+ To hide the numbers, keep it simple and basic. For example:
+- hover effects
+- css animations
+- js events
+- timers
+- colors
+- ...
+
+Do not waste any time on creating assets. Use AI generated images or images you found on the internet.
+
+
+## CHALLENGE 4: Final Touches
+
+### Merge Branches
+Merge all branches into the main branch.
+
+###  Update README.md
+Update the README.md file in the main branch so that it includes the following information:
+- The names of all team members.
+- A description of the project.
+- A screenshot of the final project.
+- Hints for each room.
+
+Every team member should add a section to the README.md file that describes the room they created.
+
+### Homepage
+Do not forget to update the index.html file to include links to all rooms and or update it to your specific needs.
