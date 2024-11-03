@@ -38,8 +38,17 @@ Add and commit the README.md file to your local repository.
 
 Push the commit to GitHub.
 
-### 4. Share Your Repository URL
+### 4. Adding Collaborators
+Please add 'SimonVanherweghe' and 'vaernewijck' on GitHub as collaborators.
+
+[Adding a collaborator to a repository](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
+
+### 5. Share the URL
 Provide the URL of your GitHub repository via [this form](https://forms.gle/VHo5o13paYTLBANU8).
+
+The leaderboard will be updated every 10 minutes.
+
+[leaderboard](https://repo-leaderboard.pages.dev/)
 
 ## CHALLENGE 2: Setup project
 To save some time, we will provide you with a basic HTML and CSS template.
@@ -250,3 +259,5 @@ For example:
 
 ## Award Ceremony
 Info will follow.
+
+![Award](./assets/award.jpg)
