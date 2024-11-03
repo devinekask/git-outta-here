@@ -237,3 +237,11 @@ Do not forget to update the index.html file to include links to all rooms and or
 Before we used to deploy our projects using Combell and FileZilla. But now we will use GitHub Pages. This is a free service that turns your GitHub repository into a website.
 
 Follow [this tutorial](https://docs.github.com/en/pages/quickstart).  Of course you don't have to do the first step, because you already have a repository. You can start from step 6.
+
+You can now share your project with the world!
+
+If the index.html is not in the root folder of your repository, you will have to add the folder name to the URL. For example: https://username.github.io/repositoryname/foldername
+
+For example:
+- [https://devinekask.github.io/git-outta-here/](https://devinekask.github.io/git-outta-here/) serves the README.md file in the root folder of the repository.
+- [https://devinekask.github.io/git-outta-here/template](https://devinekask.github.io/git-outta-here/template) serves the index.html file in the template folder of the repository.
