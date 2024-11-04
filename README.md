@@ -42,9 +42,30 @@ Push the commit to GitHub.
 
 [Create repository & first push](https://devinekask.github.io/workflows/git/collaboration/collab-01-github-push/#create-repository--first-push)
 
+#### Push
+To push you can use the following commands to set the upstream:
+
+```bash
+git push -u origin main 
+```
+
+Afterwards you can use the following command to push:
+
+```bash
+git push
+```
+
+#### Pull
+To pull you can use the following commands:
+
+```bash
+git pull origin main --rebase
+```
 
 ### 4. Adding Collaborators
-Please add 'SimonVanherweghe' and 'vaernewijck' on GitHub as collaborators.
+Add your team members as collaborators to the repository.
+
+Make your repository public.
 
 [Adding a collaborator to a repository](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 
