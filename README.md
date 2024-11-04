@@ -18,6 +18,8 @@ One team member should complete the following steps:
 ### 1. Create a Repository 
 Create a new repository named after your project or team.
 
+[Create repository & first push](https://devinekask.github.io/workflows/git/collaboration/collab-01-github-push/#create-repository--first-push)
+
 ### 2. Create a README.md File
 In your repository, create a README.md file.
 
