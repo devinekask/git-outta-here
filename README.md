@@ -207,6 +207,10 @@ Now it's time to create the rooms. Each room should have a unique challenge that
 
 Every team member should work on at least one room.
 
+[Branching](https://devinekask.github.io/workflows/git/basics/git-06-branches/)
+
+[Track and commit](https://devinekask.github.io/workflows/git/basics/git-03-commit/)
+
 ### Requirements:
 - Each room should have a separate HTML  and CSS file.
 - Each room should have a separate git branch.
