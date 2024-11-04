@@ -16,7 +16,15 @@ Divide yourselves into teams of **three**.
 ## CHALLENGE 1: Set Up Repository (1 per team)
 One team member should complete the following steps:
 ### 1. Create a Repository 
-Create a new repository named after your project or team.
+Create a new repository named after your project or team on GitHub.
+
+You don't have to add a README.md file yet.
+
+Be sure to select SSH as the URL type.
+
+Create a new folder on your machine. Initialize the repository with a README.md file.
+
+![setup](./assets/setup.png)
 
 [Create repository & first push](https://devinekask.github.io/workflows/git/collaboration/collab-01-github-push/#create-repository--first-push)
 
