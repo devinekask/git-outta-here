@@ -38,6 +38,9 @@ Add and commit the README.md file to your local repository.
 
 Push the commit to GitHub.
 
+[Create repository & first push](https://devinekask.github.io/workflows/git/collaboration/collab-01-github-push/#create-repository--first-push)
+
+
 ### 4. Adding Collaborators
 Please add 'SimonVanherweghe' and 'vaernewijck' on GitHub as collaborators.
 
